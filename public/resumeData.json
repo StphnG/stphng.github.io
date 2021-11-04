@@ -1,0 +1,85 @@
+{
+    "main": {
+        "name": "Stephanie Gascon",
+        "description": "I made this page in November 2021",
+        "image": "profilepic.jpg",
+        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "youremailhere@gmail.com",
+        "phone": "555-555-5555",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "(Your Street)",
+            "city": "(Your City)",
+            "state": "(Your State)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "The University of Sydney",
+                "degree": "Bachelor of Commerce in Accounting and Japanese Studies",
+                "graduated": "2019"
+            }
+        ],
+        "work": [
+            {
+                "company": "Nugit",
+                "title": "Customer Success Operations Manager",
+                "years": "April 2021 - Present",
+                "description": "Responsibilities across customer success, customer support, business development, and product"
+            },
+            {
+                "company": "Nugit",
+                "title": "Customer Support Executive",
+                "years": "September 2019 - March 2021",
+                "description": "Communicated with end users and engineering teams to manage client expectations and solve user requests and technical issues"
+            }
+        ],
+        "skills": [
+            {
+                "name": "SQL",
+                "level": "50%"
+            },
+            {
+                "name": "Build your personal webpage using React and GitHub pages (Coursera Guided Project)",
+                "level": "100%"
+            },
+            {
+                "name": "JSON",
+                "level": "10%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Lorem Ipsum",
+                "category": "Dolor Amet",
+                "image": "project1.jpg",
+                "url": "https://www.coursera.org/learn/build-your-own-personal-webpage"
+            }
+        ]
+    }
+}
